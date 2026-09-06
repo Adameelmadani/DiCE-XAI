@@ -40,6 +40,3 @@ Pour exécuter ce projet, installez les dépendances nécessaires via pip :
 ```bash
 pip install dice-ml scikit-learn pandas numpy matplotlib seaborn
 ```
-
-## Presentation:
-https://docs.google.com/presentation/d/1P-NMMUDN9FcCRl8hoAV2SAcDsIpvdAkkwu2tMGo8Oyo/edit?usp=sharing
